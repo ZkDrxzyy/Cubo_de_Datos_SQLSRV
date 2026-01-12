@@ -26,7 +26,7 @@ Alcance: El proyecto permite analizar métricas clave (Dinero y Cantidad) cruzan
 
 En este video se muestra como hacer compatible la descarga de las versiones para poder hacer un cubo de datos alojado en neonDB.
 
-*  **Link:** https://youtu.be/MS9d_QAtZZo
+*  **Link:** https://youtu.be/BnDbGRNea4c
 
 ---
 
