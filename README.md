@@ -201,7 +201,7 @@ Abrir Visual Studio y crear un nuevo proyecto de tipo "Analysis Services Multidi
 
 **3️⃣ Vista del Origen de Datos (DSV)**
 
-Crear una nueva vista seleccionando las tres tablas clave: *fact_ventas, dim_producto y dim_pais.* Esto permite visualizar el esquema de estrella gráficamente.
+Crear una nueva vista seleccionando las tres tablas clave: `fact_ventas`, `dim_producto` y `dim_pais.` Esto permite visualizar el esquema de estrella gráficamente.
 
 **4️⃣ Diseño del Cubo**
 
