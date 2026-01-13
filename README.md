@@ -54,6 +54,10 @@ El Data Warehouse está diseñado bajo un Esquema de Estrella (Star Schema), el 
 * Consultas más rápidas
 * Modelo intuitivo para análisis OLAP
 
+<div align="center">
+<img width="617" height="913" alt="1" src="https://github.com/user-attachments/assets/67b6ab74-5c57-4df9-8d7a-a1aa10606c95" />
+</div>
+
 ---
 
 ## 🧾 Tabla de Hechos: fact_ventas
@@ -177,13 +181,9 @@ BEGIN
 END
 ~~~
 
-
-
-
-
-
-
-
+<div align="center">
+<img width="617" height="913" alt="1" src="https://github.com/user-attachments/assets/6a89ad4f-3df2-4533-803f-65f9bcf62f2a" />
+</div>
 
 ---
 
@@ -217,6 +217,10 @@ Por defecto, el asistente solo activa los IDs. Para ver nombres reales:
 1. Abrir la dimensión Dim Producto. 
 2. Arrastrar la columna Nombre desde la vista de origen a la lista de atributos. 
 3. Repetir el proceso para Dim Pais con las columnas País y Región. 
+
+<div align="center">
+<img width="617" height="913" alt="1" src="https://github.com/user-attachments/assets/dd825850-9e02-4108-982b-1527dffa4973" />
+</div>
 
 ---
 
@@ -253,10 +257,6 @@ TrustServerCertificate = True
 **3️⃣ Configuración de Suplantación**
 
 En la pestaña "Información de suplantación" del Origen de Datos, seleccionar "Utilizar la cuenta de servicio". Esto instruye al cubo a usar las credenciales que autorizamos en el Paso 1.
-
-
-
-
 
 
 ---
@@ -305,6 +305,10 @@ WHERE (
 )
 ~~~
 
+<div align="center">
+<img width="617" height="913" alt="1" src="https://github.com/user-attachments/assets/b5fefada-d695-4eb7-8eee-a3bf065fbd9e" />
+</div>
+
 ---
 
 ## 🎓 Conclusiones
@@ -332,3 +336,4 @@ Proyecto desarrollado por:
 ---
 
 📘 Materia: Bases de Datos
+
